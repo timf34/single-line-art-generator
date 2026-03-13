@@ -1,0 +1,5 @@
+contour_count=151
+bridge_count=150
+bridge_length=950.639
+total_length=52958.109
+config={'max_size': 360, 'padding_ratio': 0.05, 'blur_sigma': 1.6, 'gamma': 1.6, 'speed_min': 0.2, 'spacing_px': 4.8, 'skip_initial_levels': 3, 'min_contour_points': 28, 'resample_step': 1.8, 'boundary_bridge_threshold': 14.0, 'smooth_iterations': 1, 'simplify_tolerance': 0.5, 'stroke_width': 1.0, 'seed_mode': 'corner', 'seed_length': 28, 'debug_dir': WindowsPath('C:/Users/timf3/VSCode/creativeCoding/SingleLineImageGenerator/output/cropped_portrait_tuned_debug'), 'canvas_width_mm': None, 'canvas_height_mm': None}
